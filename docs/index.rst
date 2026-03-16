@@ -24,4 +24,10 @@ how to :ref:`installation` the project.
    usage.md
    notebooks
    api
-   
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Deep Dives:
+
+   ipf_target_discovery_workflow.md
+
